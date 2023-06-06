@@ -35,7 +35,7 @@ const Link = (props) => {
         Image: {link.image}
       </div>
       <div>
-      
+      <br />
       </div>
     </div>
   );
